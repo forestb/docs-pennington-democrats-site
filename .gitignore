@@ -1,0 +1,27 @@
+# macOS system files
+.DS_Store
+
+# Thumbnails or previews
+._*
+
+# VS Code settings (if someone uses it)
+.vscode/
+
+# Temporary or backup files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Node-related (just in case)
+node_modules/
+
+# Python cache (if ever used)
+__pycache__/
+*.pyc
+
+# OS trash folder
+.Trashes
+
+.DriveFS/
+*.gdignore
